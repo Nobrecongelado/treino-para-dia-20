@@ -1,6 +1,7 @@
 # Função para exibir a tabuada
 def tabuada(numero):
-    for i in range(1, 11):  # A tabuada vai de 1 a 10
+    for i in range(1, 40
+    ):  # A tabuada vai de 1 a 10
         print(f"{numero} x {i} = {numero * i}")
 
 # Solicita ao usuário um número
